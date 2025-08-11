@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sm5011&label=Profile%20views&color=0e75b6&style=flat" alt="sm5011" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sm5011" alt="sm5011" /></a> </p>
-
 - 🔭 I’m currently working on **I’m passionate about Machine Learning, Deep Learning, Computer Vision, and related fields.**
 
 <h3 align="left">Connect with me:</h3>
